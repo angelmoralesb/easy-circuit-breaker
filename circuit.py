@@ -1,4 +1,3 @@
-from ntpath import join
 import requests
 import threading
 from requests import RequestException
