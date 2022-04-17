@@ -5,6 +5,7 @@ easy-circuit-breaker in python
  https://github.com/fabfuel/circuitbreaker
  
 Output:
+```
 <Response [401]>
 <Response [401]>
 <Response [401]>
