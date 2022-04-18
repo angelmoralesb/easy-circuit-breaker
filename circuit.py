@@ -64,9 +64,11 @@ empresa["nombre"] = "Home Center"
 #hiloeestudiante = threading.Thread(target=run_circuit,args=(crear_estudiante,estudiante))
 #hiloeempresa = threading.Thread(target=run_circuit,args=(crear_empresa,empresa))
 
+#lanzar los hilos
 #hiloeestudiante.start()
 #hiloeempresa.start()
 
+#esperar los hilos o soncronizarlos
 #hiloeempresa.join()
 #hiloeestudiante.join()
 
